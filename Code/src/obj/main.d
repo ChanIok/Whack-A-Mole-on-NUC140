@@ -1,0 +1,13 @@
+.\obj\main.o: Main.c
+.\obj\main.o: G:\Keil\ARM\RV31\INC\stdio.h
+.\obj\main.o: G:\Keil\ARM\RV31\INC\stdlib.h
+.\obj\main.o: G:\Keil\ARM\RV31\INC\string.h
+.\obj\main.o: ..\..\CMSIS\NUC1xx.h
+.\obj\main.o: ..\..\CMSIS\core_cm0.h
+.\obj\main.o: G:\Keil\ARM\RV31\INC\stdint.h
+.\obj\main.o: ..\..\CMSIS\system_NUC1xx.h
+.\obj\main.o: ..\..\Driver\Include\System\SysInfra.h
+.\obj\main.o: ..\..\Driver\Include\System\ModuleID.h
+.\obj\main.o: ..\..\Driver\Include\NUC1xx-LB_002\Seven_Segment.h
+.\obj\main.o: ..\..\Driver\Include\NUC1xx-LB_002\scankey.h
+.\obj\main.o: ..\..\Driver\Include\NUC1xx-LB_002\LCD_Driver.h
